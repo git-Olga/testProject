@@ -6,4 +6,5 @@
  * Time: 3:52
  * To change this template use File | Settings | File Templates.
  */
- 
+    echo "hello world!";
+?>
